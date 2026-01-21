@@ -53,6 +53,9 @@ The app will be available at `http://localhost:3000`.
 
 This project is licensed under the MIT License.
 
+## Updates 
+
+1. Responsive need to be done
 
 ## Images 
 
